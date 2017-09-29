@@ -1,0 +1,34 @@
+E:\code c#\baitapnhom1\bin\Debug\baitapnhom1.exe.config
+E:\code c#\baitapnhom1\bin\Debug\baitapnhom1.exe
+E:\code c#\baitapnhom1\bin\Debug\baitapnhom1.pdb
+E:\code c#\baitapnhom1\obj\Debug\baitapnhom1.csprojResolveAssemblyReference.cache
+E:\code c#\baitapnhom1\obj\Debug\baitapnhom1.Form1.resources
+E:\code c#\baitapnhom1\obj\Debug\baitapnhom1.Properties.Resources.resources
+E:\code c#\baitapnhom1\obj\Debug\baitapnhom1.csproj.GenerateResource.Cache
+E:\code c#\baitapnhom1\obj\Debug\baitapnhom1.exe
+E:\code c#\baitapnhom1\obj\Debug\baitapnhom1.pdb
+E:\code c#\baitapnhom1\bin\Debug\EntityFramework.dll
+E:\code c#\baitapnhom1\bin\Debug\EntityFramework.SqlServer.dll
+E:\code c#\baitapnhom1\bin\Debug\EntityFramework.xml
+E:\code c#\baitapnhom1\bin\Debug\EntityFramework.SqlServer.xml
+E:\code c#\baitapnhom1\obj\Debug\baitapnhom1.Formmain.resources
+E:\code c#\baitapnhom1\obj\Debug\baitapnhom1.Formthemnv.resources
+E:\code c#\baitapnhom1\obj\Debug\baitapnhom1.Formsuanv.resources
+E:\code c#\baitapnhom1\obj\Debug\baitapnhom1.Formtimkiem.resources
+C:\Users\anhho\Desktop\baitapnhom\baitapnhom1\bin\Debug\baitapnhom1.exe.config
+C:\Users\anhho\Desktop\baitapnhom\baitapnhom1\obj\Debug\baitapnhom1.exe
+C:\Users\anhho\Desktop\baitapnhom\baitapnhom1\obj\Debug\baitapnhom1.pdb
+C:\Users\anhho\Desktop\baitapnhom\baitapnhom1\bin\Debug\baitapnhom1.exe
+C:\Users\anhho\Desktop\baitapnhom\baitapnhom1\bin\Debug\baitapnhom1.pdb
+C:\Users\anhho\Desktop\baitapnhom\baitapnhom1\bin\Debug\EntityFramework.dll
+C:\Users\anhho\Desktop\baitapnhom\baitapnhom1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\anhho\Desktop\baitapnhom\baitapnhom1\bin\Debug\EntityFramework.xml
+C:\Users\anhho\Desktop\baitapnhom\baitapnhom1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\anhho\Desktop\baitapnhom\baitapnhom1\obj\Debug\baitapnhom1.csprojResolveAssemblyReference.cache
+C:\Users\anhho\Desktop\baitapnhom\baitapnhom1\obj\Debug\baitapnhom1.Form1.resources
+C:\Users\anhho\Desktop\baitapnhom\baitapnhom1\obj\Debug\baitapnhom1.Formmain.resources
+C:\Users\anhho\Desktop\baitapnhom\baitapnhom1\obj\Debug\baitapnhom1.Formsuanv.resources
+C:\Users\anhho\Desktop\baitapnhom\baitapnhom1\obj\Debug\baitapnhom1.Formthemnv.resources
+C:\Users\anhho\Desktop\baitapnhom\baitapnhom1\obj\Debug\baitapnhom1.Formtimkiem.resources
+C:\Users\anhho\Desktop\baitapnhom\baitapnhom1\obj\Debug\baitapnhom1.Properties.Resources.resources
+C:\Users\anhho\Desktop\baitapnhom\baitapnhom1\obj\Debug\baitapnhom1.csproj.GenerateResource.Cache
