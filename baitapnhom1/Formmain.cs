@@ -34,6 +34,41 @@ namespace baitapnhom1
 
 
         }
+        public void loadgrv()
+        {
+            grvnhanvien.DataSource = new Nhanvienf().Danhsach().ToList();
+
+
+            for (int i = 0; i < grvnhanvien.RowCount; i++)
+            {
+
+                if (grvnhanvien.Rows[i].Cells[4].Value.ToString().Trim() == "1")
+                    grvnhanvien.Rows[i].Cells[4].Value = "Nam";
+                else
+                     if (grvnhanvien.Rows[i].Cells[4].Value.ToString().Trim() == "0")
+                    grvnhanvien.Rows[i].Cells[4].Value = "Nữ";
+            }
+        }
+
+        private void themnv_Click(object sender, EventArgs e)
+        {
+
+            Formthemnv frthemnv = new Formthemnv();
+            frthemnv.Show();
+
+        }
+
+        private void suanv_Click(object sender, EventArgs e)
+        {
+            string id = grvnhanvien.SelectedCells[0].OwningRow.Cells["id"].Value.ToString();
+            Formsuanv frthemnv = new Formsuanv(id);
+
+            frthemnv.Show();
+
+
+
+        }
+
 
 
     }
