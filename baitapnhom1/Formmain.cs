@@ -68,6 +68,31 @@ namespace baitapnhom1
 
 
         }
+        private void xoanv_Click(object sender, EventArgs e)
+        {
+            string id = grvnhanvien.SelectedCells[0].OwningRow.Cells["id"].Value.ToString();
+            if (MessageBox.Show("bạn có muốn xóa không ?", "mesage", MessageBoxButtons.OKCancel) == DialogResult.OK)
+            {
+                Nhanvienf datanhanvien = new Nhanvienf();
+                datanhanvien.xoa(id);
+                loadgrv();
+            }
+
+
+        }
+
+        private void huongdan_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void timkiemToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+            Formtimkiem frthemnv = new Formtimkiem();
+            frthemnv.Show();
+
+        }
 
 
 
