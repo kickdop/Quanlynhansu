@@ -32,3 +32,6 @@ C:\Users\anhho\Desktop\baitapnhom\baitapnhom1\obj\Debug\baitapnhom1.Formthemnv.r
 C:\Users\anhho\Desktop\baitapnhom\baitapnhom1\obj\Debug\baitapnhom1.Formtimkiem.resources
 C:\Users\anhho\Desktop\baitapnhom\baitapnhom1\obj\Debug\baitapnhom1.Properties.Resources.resources
 C:\Users\anhho\Desktop\baitapnhom\baitapnhom1\obj\Debug\baitapnhom1.csproj.GenerateResource.Cache
+E:\forgithub\Quanlynhansu\baitapnhom1\bin\Debug\baitapnhom1.exe.config
+E:\forgithub\Quanlynhansu\baitapnhom1\obj\Debug\baitapnhom1.exe
+E:\forgithub\Quanlynhansu\baitapnhom1\obj\Debug\baitapnhom1.pdb
