@@ -41,11 +41,9 @@ C:\Users\Rob Luccy\Documents\GitHub\Quanlynhansu\baitapnhom1\bin\Debug\baitapnho
 C:\Users\Rob Luccy\Documents\GitHub\Quanlynhansu\baitapnhom1\obj\Debug\baitapnhom1.exe
 C:\Users\Rob Luccy\Documents\GitHub\Quanlynhansu\baitapnhom1\obj\Debug\baitapnhom1.pdb
 >>>>>>> a3f2cdb096ffb2752fc0b4764b7d012245071dbf
-<<<<<<< HEAD
 D:\GITHUB\Quanlynhansu\baitapnhom1\bin\Debug\baitapnhom1.exe.config
 D:\GITHUB\Quanlynhansu\baitapnhom1\obj\Debug\baitapnhom1.exe
 D:\GITHUB\Quanlynhansu\baitapnhom1\obj\Debug\baitapnhom1.pdb
-=======
 E:\forgithub\Quanlynhansu\baitapnhom1\obj\Debug\baitapnhom1.csprojResolveAssemblyReference.cache
 E:\forgithub\Quanlynhansu\baitapnhom1\obj\Debug\baitapnhom1.Form1.resources
 E:\forgithub\Quanlynhansu\baitapnhom1\obj\Debug\baitapnhom1.Formmain.resources
@@ -56,3 +54,6 @@ E:\forgithub\Quanlynhansu\baitapnhom1\obj\Debug\baitapnhom1.Formxoanv.resources
 E:\forgithub\Quanlynhansu\baitapnhom1\obj\Debug\baitapnhom1.Properties.Resources.resources
 E:\forgithub\Quanlynhansu\baitapnhom1\obj\Debug\baitapnhom1.csproj.GenerateResource.Cache
 >>>>>>> ac7376b01636b7e87e072af2c3f8f40bda0863ff
+C:\Users\FPTShop\Documents\GitHub\Quanlynhansu\baitapnhom1\bin\Debug\baitapnhom1.exe.config
+C:\Users\FPTShop\Documents\GitHub\Quanlynhansu\baitapnhom1\obj\Debug\baitapnhom1.exe
+C:\Users\FPTShop\Documents\GitHub\Quanlynhansu\baitapnhom1\obj\Debug\baitapnhom1.pdb
