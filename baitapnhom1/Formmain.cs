@@ -14,8 +14,8 @@ namespace baitapnhom1
 {
     public partial class Formmain : Form
     {
-       
-        
+
+
         public Formmain()
         {
             InitializeComponent();
@@ -24,6 +24,7 @@ namespace baitapnhom1
 
 
         }
+
         public void loadcb()
         {
 
@@ -34,6 +35,7 @@ namespace baitapnhom1
 
 
         }
+
         public void loadgrv()
         {
             grvnhanvien.DataSource = new Nhanvienf().Danhsach().ToList();
@@ -68,6 +70,7 @@ namespace baitapnhom1
 
 
         }
+
         private void xoanv_Click(object sender, EventArgs e)
         {
             string id = grvnhanvien.SelectedCells[0].OwningRow.Cells["id"].Value.ToString();
@@ -94,7 +97,38 @@ namespace baitapnhom1
 
         }
 
+        private void cblocnv_TextChanged(object sender, EventArgs e)
+        {
 
 
+
+
+
+
+        }
+
+        private void tatca_Click(object sender, EventArgs e)
+        {
+            loadgrv();
+        }
+
+        private void loc_Click(object sender, EventArgs e)
+        {
+            grvnhanvien.DataSource = new Nhanvienf().theophongban(cblocnv.SelectedValue.ToString()).ToList();
+            for (int i = 0; i < grvnhanvien.RowCount; i++)
+            {
+
+                if (grvnhanvien.Rows[i].Cells[4].Value.ToString().Trim() == "1")
+                    grvnhanvien.Rows[i].Cells[4].Value = "Nam";
+                else
+                     if (grvnhanvien.Rows[i].Cells[4].Value.ToString().Trim() == "0")
+                    grvnhanvien.Rows[i].Cells[4].Value = "Nữ";
+            }
+        }
+
+        private void Formmain_Activated(object sender, EventArgs e)
+        {
+            loadgrv();
+        }
     }
 }
