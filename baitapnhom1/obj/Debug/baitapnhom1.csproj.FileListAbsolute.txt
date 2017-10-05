@@ -41,3 +41,6 @@ C:\Users\Rob Luccy\Documents\GitHub\Quanlynhansu\baitapnhom1\bin\Debug\baitapnho
 C:\Users\Rob Luccy\Documents\GitHub\Quanlynhansu\baitapnhom1\obj\Debug\baitapnhom1.exe
 C:\Users\Rob Luccy\Documents\GitHub\Quanlynhansu\baitapnhom1\obj\Debug\baitapnhom1.pdb
 >>>>>>> a3f2cdb096ffb2752fc0b4764b7d012245071dbf
+D:\GITHUB\Quanlynhansu\baitapnhom1\bin\Debug\baitapnhom1.exe.config
+D:\GITHUB\Quanlynhansu\baitapnhom1\obj\Debug\baitapnhom1.exe
+D:\GITHUB\Quanlynhansu\baitapnhom1\obj\Debug\baitapnhom1.pdb
