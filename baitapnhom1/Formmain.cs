@@ -19,11 +19,22 @@ namespace baitapnhom1
         public Formmain()
         {
             InitializeComponent();
-           
-           
+            loadgrv();
+            loadcb();
+
+
+        }
+        public void loadcb()
+        {
+
+
+            cblocnv.DataSource = new phongbanf().Danhsach().ToList();
+            cblocnv.DisplayMember = "Name";
+            cblocnv.ValueMember = "ID";
+
 
         }
 
-       
+
     }
 }
