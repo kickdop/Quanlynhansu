@@ -15,38 +15,3 @@ E:\code c#\baitapnhom1\obj\Debug\baitapnhom1.Formmain.resources
 E:\code c#\baitapnhom1\obj\Debug\baitapnhom1.Formthemnv.resources
 E:\code c#\baitapnhom1\obj\Debug\baitapnhom1.Formsuanv.resources
 E:\code c#\baitapnhom1\obj\Debug\baitapnhom1.Formtimkiem.resources
-C:\Users\anhho\Desktop\baitapnhom\baitapnhom1\bin\Debug\baitapnhom1.exe.config
-C:\Users\anhho\Desktop\baitapnhom\baitapnhom1\obj\Debug\baitapnhom1.exe
-C:\Users\anhho\Desktop\baitapnhom\baitapnhom1\obj\Debug\baitapnhom1.pdb
-C:\Users\anhho\Desktop\baitapnhom\baitapnhom1\bin\Debug\baitapnhom1.exe
-C:\Users\anhho\Desktop\baitapnhom\baitapnhom1\bin\Debug\baitapnhom1.pdb
-C:\Users\anhho\Desktop\baitapnhom\baitapnhom1\bin\Debug\EntityFramework.dll
-C:\Users\anhho\Desktop\baitapnhom\baitapnhom1\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\anhho\Desktop\baitapnhom\baitapnhom1\bin\Debug\EntityFramework.xml
-C:\Users\anhho\Desktop\baitapnhom\baitapnhom1\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\anhho\Desktop\baitapnhom\baitapnhom1\obj\Debug\baitapnhom1.csprojResolveAssemblyReference.cache
-C:\Users\anhho\Desktop\baitapnhom\baitapnhom1\obj\Debug\baitapnhom1.Form1.resources
-C:\Users\anhho\Desktop\baitapnhom\baitapnhom1\obj\Debug\baitapnhom1.Formmain.resources
-C:\Users\anhho\Desktop\baitapnhom\baitapnhom1\obj\Debug\baitapnhom1.Formsuanv.resources
-C:\Users\anhho\Desktop\baitapnhom\baitapnhom1\obj\Debug\baitapnhom1.Formthemnv.resources
-C:\Users\anhho\Desktop\baitapnhom\baitapnhom1\obj\Debug\baitapnhom1.Formtimkiem.resources
-C:\Users\anhho\Desktop\baitapnhom\baitapnhom1\obj\Debug\baitapnhom1.Properties.Resources.resources
-C:\Users\anhho\Desktop\baitapnhom\baitapnhom1\obj\Debug\baitapnhom1.csproj.GenerateResource.Cache
-<<<<<<< HEAD
-E:\forgithub\Quanlynhansu\baitapnhom1\bin\Debug\baitapnhom1.exe.config
-E:\forgithub\Quanlynhansu\baitapnhom1\obj\Debug\baitapnhom1.exe
-E:\forgithub\Quanlynhansu\baitapnhom1\obj\Debug\baitapnhom1.pdb
-=======
-C:\Users\Rob Luccy\Documents\GitHub\Quanlynhansu\baitapnhom1\bin\Debug\baitapnhom1.exe.config
-C:\Users\Rob Luccy\Documents\GitHub\Quanlynhansu\baitapnhom1\obj\Debug\baitapnhom1.exe
-C:\Users\Rob Luccy\Documents\GitHub\Quanlynhansu\baitapnhom1\obj\Debug\baitapnhom1.pdb
->>>>>>> a3f2cdb096ffb2752fc0b4764b7d012245071dbf
-E:\forgithub\Quanlynhansu\baitapnhom1\obj\Debug\baitapnhom1.csprojResolveAssemblyReference.cache
-E:\forgithub\Quanlynhansu\baitapnhom1\obj\Debug\baitapnhom1.Form1.resources
-E:\forgithub\Quanlynhansu\baitapnhom1\obj\Debug\baitapnhom1.Formmain.resources
-E:\forgithub\Quanlynhansu\baitapnhom1\obj\Debug\baitapnhom1.Formsuanv.resources
-E:\forgithub\Quanlynhansu\baitapnhom1\obj\Debug\baitapnhom1.Formthemnv.resources
-E:\forgithub\Quanlynhansu\baitapnhom1\obj\Debug\baitapnhom1.Formtimkiem.resources
-E:\forgithub\Quanlynhansu\baitapnhom1\obj\Debug\baitapnhom1.Formxoanv.resources
-E:\forgithub\Quanlynhansu\baitapnhom1\obj\Debug\baitapnhom1.Properties.Resources.resources
-E:\forgithub\Quanlynhansu\baitapnhom1\obj\Debug\baitapnhom1.csproj.GenerateResource.Cache

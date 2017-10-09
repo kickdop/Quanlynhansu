@@ -14,14 +14,14 @@ namespace baitapnhom1
 {
     public partial class Form1 : Form
     {
-
+        
 
         public Form1()
         {
             InitializeComponent();
         }
 
-
+        
         private void dangnhap_Click(object sender, EventArgs e)
         {
             Formmain frmmain = new Formmain();
@@ -37,7 +37,7 @@ namespace baitapnhom1
             }
             else
             {
-                MessageBox.Show("Tài khoản hoặc mật khẩu không đúng", "Eror");
+                MessageBox.Show("Tài khoản hoặc mật khẩu không đúng","Eror");
             }
         }
 

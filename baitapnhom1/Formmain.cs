@@ -14,26 +14,26 @@ namespace baitapnhom1
 {
     public partial class Formmain : Form
     {
-
-
+       
+        
         public Formmain()
         {
             InitializeComponent();
             loadgrv();
             loadcb();
-
+           
 
         }
 
         public void loadcb()
         {
-
+           
 
             cblocnv.DataSource = new phongbanf().Danhsach().ToList();
             cblocnv.DisplayMember = "Name";
             cblocnv.ValueMember = "ID";
 
-
+             
         }
 
         public void loadgrv()
@@ -54,21 +54,21 @@ namespace baitapnhom1
 
         private void themnv_Click(object sender, EventArgs e)
         {
-
+           
             Formthemnv frthemnv = new Formthemnv();
             frthemnv.Show();
-
+            
         }
 
         private void suanv_Click(object sender, EventArgs e)
         {
             string id = grvnhanvien.SelectedCells[0].OwningRow.Cells["id"].Value.ToString();
             Formsuanv frthemnv = new Formsuanv(id);
-
+           
             frthemnv.Show();
-
-
-
+           
+          
+           
         }
 
         private void xoanv_Click(object sender, EventArgs e)
@@ -81,7 +81,7 @@ namespace baitapnhom1
                 loadgrv();
             }
 
-
+           
         }
 
         private void huongdan_Click(object sender, EventArgs e)
@@ -91,20 +91,20 @@ namespace baitapnhom1
 
         private void timkiemToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+        
             Formtimkiem frthemnv = new Formtimkiem();
             frthemnv.Show();
-
+           
         }
 
         private void cblocnv_TextChanged(object sender, EventArgs e)
         {
+            
+           
 
-
-
-
-
-
+           
+            
+            
         }
 
         private void tatca_Click(object sender, EventArgs e)
@@ -114,7 +114,7 @@ namespace baitapnhom1
 
         private void loc_Click(object sender, EventArgs e)
         {
-            grvnhanvien.DataSource = new Nhanvienf().theophongban(cblocnv.SelectedValue.ToString()).ToList();
+             grvnhanvien.DataSource = new Nhanvienf().theophongban(cblocnv.SelectedValue.ToString()).ToList();
             for (int i = 0; i < grvnhanvien.RowCount; i++)
             {
 
