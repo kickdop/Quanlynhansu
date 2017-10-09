@@ -35,46 +35,6 @@ namespace baitapnhom1
             cbphongban.ValueMember = "ID";
         }
 
-        public void loadgrv()
-        {
-            grvnhanvien.DataSource = new Nhanvienf().Danhsach().ToList();
-
-
-            for (int i = 0; i < grvnhanvien.RowCount; i++)
-            {
-
-                if (grvnhanvien.Rows[i].Cells[4].Value.ToString().Trim() == "1")
-                    grvnhanvien.Rows[i].Cells[4].Value = "Nam";
-                else
-                     if (grvnhanvien.Rows[i].Cells[4].Value.ToString().Trim() == "0")
-                    grvnhanvien.Rows[i].Cells[4].Value = "Nữ";
-            }  public void loadgrv()
-        {
-            grvnhanvien.DataSource = new Nhanvienf().Danhsach().ToList();
-
-
-            for (int i = 0; i < grvnhanvien.RowCount; i++)
-            {
-
-                if (grvnhanvien.Rows[i].Cells[4].Value.ToString().Trim() == "1")
-                    grvnhanvien.Rows[i].Cells[4].Value = "Nam";
-                else
-                     if (grvnhanvien.Rows[i].Cells[4].Value.ToString().Trim() == "0")
-                    grvnhanvien.Rows[i].Cells[4].Value = "Nữ";
-            }  public void loadgrv()
-        {
-            grvnhanvien.DataSource = new Nhanvienf().Danhsach().ToList();
-
-
-            for (int i = 0; i < grvnhanvien.RowCount; i++)
-            {
-
-                if (grvnhanvien.Rows[i].Cells[4].Value.ToString().Trim() == "1")
-                    grvnhanvien.Rows[i].Cells[4].Value = "Nam";
-                else
-                     if (grvnhanvien.Rows[i].Cells[4].Value.ToString().Trim() == "0")
-                    grvnhanvien.Rows[i].Cells[4].Value = "Nữ";
-            }
         private void them_Click(object sender, EventArgs e)
         {
             if (manv.Text == "" || name.Text == "" || cmt.Text == "") MessageBox.Show("Tên nhân viên, mã nhân viên, cmt không đc để trống", "Cảnh báo");
