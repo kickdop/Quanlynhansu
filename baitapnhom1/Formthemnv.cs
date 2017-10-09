@@ -40,12 +40,20 @@ namespace baitapnhom1
             if (manv.Text == "" || name.Text == "" || cmt.Text == "") MessageBox.Show("Tên nhân viên, mã nhân viên, cmt không đc để trống", "Cảnh báo");
             else
             {
+<<<<<<< HEAD
                
+=======
+
+>>>>>>> 86a0d5f6490c2e584f84220550a732a8de53442f
                 Nhanvien a = new Nhanvien();
                 a.MaNV = manv.Text;
                 a.Name1 = name.Text;
                 a.DOB = Convert.ToDateTime(ngaysinh.Text);
+<<<<<<< HEAD
                 a.Gioitinh = (nam.Checked == true) ? "1" :"0";
+=======
+                a.Gioitinh = (nam.Checked == true) ? "1" : "0";
+>>>>>>> 86a0d5f6490c2e584f84220550a732a8de53442f
                 a.Noiohiennay = noio.Text;
                 a.Ngayvaolam = Convert.ToDateTime(ngayvaolam.Text);
                 a.Bangcap = bangcap.Text;
@@ -53,17 +61,30 @@ namespace baitapnhom1
                 a.CMT = cmt.Text;
                 a.ChucvuID = Convert.ToInt32(cbchucvu.SelectedValue.ToString());
                 a.PhongbanID = Convert.ToInt32(cbphongban.SelectedValue.ToString());
+<<<<<<< HEAD
                 try {
+=======
+                try
+                {
+>>>>>>> 86a0d5f6490c2e584f84220550a732a8de53442f
                     datanhanvien.them(a);
                     MessageBox.Show("Thêm mới thành công", "Message");
                     manv.Text = "";
                     name.Text = "";
+<<<<<<< HEAD
                     nam.Checked=true;
+=======
+                    nam.Checked = true;
+>>>>>>> 86a0d5f6490c2e584f84220550a732a8de53442f
                     noio.Text = "";
                     bangcap.Text = "";
                     sdt.Text = "";
                     cmt.Text = "";
+<<<<<<< HEAD
                     
+=======
+
+>>>>>>> 86a0d5f6490c2e584f84220550a732a8de53442f
                 }
                 catch (Exception exp)
                 {
