@@ -18,7 +18,6 @@ namespace baitapnhom1
         {
             InitializeComponent();
             loadgrv();
-<<<<<<< HEAD
         }
        
             public void loadgrv()
@@ -55,43 +54,5 @@ namespace baitapnhom1
                     grvnhanvien.Rows[i].Cells[4].Value = "Nữ";
             }
         }
-=======
-        }
-
-        public void loadgrv()
-        {
-            grvnhanvien.DataSource = new Nhanvienf().Danhsach().ToList();
-
-
-            for (int i = 0; i < grvnhanvien.RowCount; i++)
-            {
-
-                if (grvnhanvien.Rows[i].Cells[4].Value.ToString().Trim() == "1")
-                    grvnhanvien.Rows[i].Cells[4].Value = "Nam";
-                else
-                     if (grvnhanvien.Rows[i].Cells[4].Value.ToString().Trim() == "0")
-                    grvnhanvien.Rows[i].Cells[4].Value = "Nữ";
-            }
-
-        }
-
-        private void tatca_Click(object sender, EventArgs e)
-        {
-            string find = textfind.Text.Trim();
-
-            List<Nhanvien> aaa = new Nhanvienf().timtatca(find).ToList();
-
-            grvnhanvien.DataSource = aaa;
-            for (int i = 0; i < grvnhanvien.RowCount; i++)
-            {
-
-                if (grvnhanvien.Rows[i].Cells[4].Value.ToString().Trim() == "1")
-                    grvnhanvien.Rows[i].Cells[4].Value = "Nam";
-                else
-                     if (grvnhanvien.Rows[i].Cells[4].Value.ToString().Trim() == "0")
-                    grvnhanvien.Rows[i].Cells[4].Value = "Nữ";
-            }
-        }
->>>>>>> 86a0d5f6490c2e584f84220550a732a8de53442f
     }
 }
